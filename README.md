@@ -1,19 +1,25 @@
-# GRANDIR LP Ver.2
+# GRANDIR 完成版 LP
 
-GitHub Pages用の静的LPです。
+GitHub Pages用の静的LP一式です。
 
-## 今回の変更
-- チョコレート `#5A3A2E` × ミント `#A8E6CF` / `#B2F2E5`
-- クリーム `#F7F5F0`、グレージュ `#C9B29B`、ソフトピンクを補助色に使用
-- 元のGRANDIR LPの「ライフワーク×ライスワーク」「学び」「交流」「インフラ事業」などの構成を重視
-- GRANDIRメンバー向け特別講座「AI学び放題・活用し放題」を追加
-- LINE URL: https://lin.ee/5zObKIb
-- 約3,000名表記
+## 含まれるもの
+- index.html
+- style.css
+- script.js
+- assets/botanical.svg
+- assets/sparkles.svg
+- assets/soft-blobs.svg
 
-## GitHubで差し替えるファイル
-`index.html` / `style.css` / `script.js` を既存リポジトリ直下へアップロードしてください。
-README.md は任意です。
+## 反映内容
+- 元LPの講師の声：Akina / 梅宮 翠
+- 元LPのコミュニティ参加者の声：まり / まゆ / はな / まい / めぐみ
+- 元LPの「GRANDIRが選ばれる理由」
+- LP限定無料動画プレゼント 2本
+- GRANDIR限定「AI学び放題・活用し放題」
+- 約3,000名へ更新
+- LINE: https://lin.ee/5zObKIb
+- 実在人物の写真はLP素材として同梱せず、オリジナルの抽象イラスト・植物装飾を使用
 
 ## 注意
-「メンバーの声」は現在、デザイン確認用の仮テキストです。
-元LPの実際のメンバーの声・講師紹介・写真素材を受け取った後、正式版へ差し替える想定です。
+元LPにある成果・収入・参加費等の表現は、元の内容を尊重して掲載していますが、
+公開前に現在の提供条件・動画内容・法令/広告表示との整合性を必ず確認してください。

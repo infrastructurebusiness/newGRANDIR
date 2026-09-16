@@ -1,1 +1,1 @@
-const io=new IntersectionObserver((entries)=>{entries.forEach(e=>{if(e.isIntersecting)e.target.classList.add("visible")})},{threshold:.08});document.querySelectorAll(".reveal").forEach(el=>io.observe(el));
+const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting)e.target.classList.add("visible")}),{threshold:.06});document.querySelectorAll(".reveal").forEach(e=>io.observe(e));
